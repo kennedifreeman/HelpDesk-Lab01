@@ -1,5 +1,4 @@
-# HelpDesk-Lab01
-# Help Desk Ticket HD-002: Internal Website Unavailable
+# Help Desk Ticket HD-001: Internal Website Unavailable
 
 ## 1. Incident Summary
 
